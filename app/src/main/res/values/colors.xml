@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="write">#fff</color>
+    <color name="red">#f00</color>
+
+    <color name="blue_light">#0099ff</color>
+
+    <color name="sport_bg">#ff6eb958</color>
+    <color name="sport_button_normal">#6fba58</color>
+    <color name="sport_button_press">#28b046</color>
+
+    <color name="recycler_default_bg">#f8f8fa</color>
+</resources>
